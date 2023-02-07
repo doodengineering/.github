@@ -1,6 +1,6 @@
-# DOOD
+# DOOD Engineering
 
-_All you need to join the digital age._
+_The engineering team at [DOOD](https://www.dood.gr/)._
 
 ## Welcome!
 
